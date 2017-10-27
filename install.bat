@@ -1,0 +1,1 @@
+WindowsService.exe --install
